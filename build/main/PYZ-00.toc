@@ -1,0 +1,730 @@
+('C:\\Users\\Subhasri '
+ 'Vijay\\AppData\\Local\\Programs\\Python\\Python38-32\\Imazer\\build\\main\\PYZ-00.pyz',
+ [('PIL',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\subhasri '
+   'vijay\\appdata\\local\\programs\\python\\python38-32\\lib\\zipfile.py',
+   'PYMODULE')])
